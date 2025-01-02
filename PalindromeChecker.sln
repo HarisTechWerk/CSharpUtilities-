@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeChecker", "PalindromeChecker\PalindromeChecker.csproj", "{0692341E-6BCB-4464-ABC6-9FBAC9820F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeChecker_TwoPointerTechnnique", "PalindromeChecker_TwoPointerTechnnique\PalindromeChecker_TwoPointerTechnnique.csproj", "{A8E22D35-B4DA-462E-ADE9-B095602F1E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeChecker-Numbers", "PalindromeChecker-PalindromeChecker\PalindromeChecker-Numbers.csproj", "{B4D2C8CA-4C43-4F4C-9896-39327BE6CD69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeCheckerApp", "PalindromeCheckerApp\PalindromeCheckerApp.csproj", "{0B1C2366-076B-4AC7-B54A-680FDB36EFC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0692341E-6BCB-4464-ABC6-9FBAC9820F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0692341E-6BCB-4464-ABC6-9FBAC9820F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0692341E-6BCB-4464-ABC6-9FBAC9820F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0692341E-6BCB-4464-ABC6-9FBAC9820F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E22D35-B4DA-462E-ADE9-B095602F1E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E22D35-B4DA-462E-ADE9-B095602F1E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E22D35-B4DA-462E-ADE9-B095602F1E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E22D35-B4DA-462E-ADE9-B095602F1E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D2C8CA-4C43-4F4C-9896-39327BE6CD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D2C8CA-4C43-4F4C-9896-39327BE6CD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D2C8CA-4C43-4F4C-9896-39327BE6CD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D2C8CA-4C43-4F4C-9896-39327BE6CD69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1C2366-076B-4AC7-B54A-680FDB36EFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1C2366-076B-4AC7-B54A-680FDB36EFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1C2366-076B-4AC7-B54A-680FDB36EFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1C2366-076B-4AC7-B54A-680FDB36EFC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
